@@ -33,7 +33,7 @@
     <td width="50%" valign="top" align="center">
       <h3>💻 Tech Stack</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,py,html,cpp,cs,kotlin,react,nextjs,nodejs,mongodb,postgres,git,docker&perline=5&theme=dark" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,kotlin,react,nextjs,nodejs,mongodb,postgres,git,docker&perline=5&theme=dark" alt="Skills" />
       </a>
     </td>
   </tr>
