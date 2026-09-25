@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pushkar%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a0a2e,70:1a0a2e,100:0d0d0d&height=240&section=header&text=Pushkar%20Kumar&fontSize=72&fontColor=00ff9f&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Game%20Dev&descAlignY=60&descSize=20&descColor=a855f7" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+for+the+web+%F0%9F%8C%90;From+Discord+bots+to+Android+apps+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%8C%90;Cybersecurity+Enthusiast+%F0%9F%94%90;AI+%26+ML+Explorer+%F0%9F%A4%96;Game+Developer+%F0%9F%8E%AE;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -27,50 +27,77 @@
 
 ## 👾 About Me
 
-```yaml
-name:       Pushkar Kumar
-role:       Full Stack Developer
-passion:    Building anything from Discord bots to Android apps
-focus:      Web · Backend · Mobile
-learning:   Always exploring new tech
-contact:    pushkarkumarsingh.18@gmail.com
+```bash
+  ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗  ██╗ █████╗ ██████╗
+  ██╔══██╗██║   ██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗██╔══██╗
+  ██████╔╝██║   ██║███████╗███████║█████╔╝ ███████║██████╔╝
+  ██╔═══╝ ██║   ██║╚════██║██╔══██║██╔═██╗ ██╔══██║██╔══██╗
+  ██║     ╚██████╔╝███████║██║  ██║██║  ██╗██║  ██║██║  ██║
+  ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+  > whoami
+  Pushkar Kumar — Full Stack Dev | Security | AI | Game Dev
+
+  > cat interests.txt
+  [+] Web & Backend Development
+  [+] Cybersecurity & Ethical Hacking
+  [+] Artificial Intelligence & ML
+  [+] Game Development
+  [+] Always learning. Always building.
+
+  > contact --email pushkarkumarsingh.18@gmail.com
+  [✓] Handshake ready.
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Arsenal — Tech Stack
 
+#### 🌐 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,c,cpp,kotlin&perline=8&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,postgres,git,docker,linux&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css,kotlin&theme=dark" />
+</div>
+
+#### 🛠️ Web & Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,docker,git&theme=dark" />
+</div>
+
+#### 🔐 Security & AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,pytorch,tensorflow&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</div>
+
+#### 🎮 Game Dev
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,godot,cs&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&border_color=00ff9f&icon_color=a855f7&title_color=00ff9f"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff9f"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pushkarverse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkarverse&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=pushkarverse&theme=radical&hide_border=true&background=0d0d0d&ring=00ff9f&fire=a855f7&currStreakLabel=00ff9f" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkarverse&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pushkarverse&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0a2e,70:0a0a2e,100:0d0d0d&height=120&section=footer&fontColor=00ff9f" width="100%"/>
