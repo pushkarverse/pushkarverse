@@ -65,11 +65,7 @@
 
 #### 🔐 Security & AI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,pytorch,tensorflow&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,pytorch,tensorflow,openai&theme=dark" />
 </div>
 
 #### 🎮 Game Dev
@@ -82,8 +78,8 @@
 ## 📊 Stats & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
