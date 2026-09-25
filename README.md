@@ -82,20 +82,12 @@
 ## 📊 Stats & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&border_color=00ff9f&icon_color=a855f7&title_color=00ff9f"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff9f"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pushkarverse&theme=radical&hide_border=true&background=0d0d0d&ring=00ff9f&fire=a855f7&currStreakLabel=00ff9f" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkarverse&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=pushkarverse&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
