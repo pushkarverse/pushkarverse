@@ -95,7 +95,7 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare&theme=dark" alt="Tools" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode,npm&theme=dark" alt="More Tools" height="50" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" height="50" />
+  <img src="./assets/render-icon.svg" alt="Render" height="50" />
 </div>
 
 <br/>
