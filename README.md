@@ -83,7 +83,7 @@
 
 <h4 align="center">🚀 Deployment & Tools</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github,vscode,postman,figma,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github,vscode,render,figma,npm&theme=dark" />
 </div>
 
 <br/>
