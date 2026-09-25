@@ -89,7 +89,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkarverse&theme=radical" alt="Profile Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pushkarverse&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pushkarverse&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 ---
