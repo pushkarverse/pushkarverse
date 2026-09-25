@@ -63,27 +63,38 @@
 
 <h4 align="center">🌐 Languages</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css,kotlin&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="50" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,kotlin&theme=dark" alt="HTML CSS Kotlin" height="50" />
 </div>
 
 <h4 align="center">🛠️ Web & Backend</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,docker,git&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,postgres&theme=dark" alt="Backend" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="50" />
 </div>
 
 <h4 align="center">🔐 Security & AI</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali,pytorch,tensorflow,openai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,pytorch,tensorflow,openai&theme=dark" height="50" />
 </div>
 
 <h4 align="center">🎮 Game Dev</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,godot,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" alt="Unity Godot" height="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" height="50" />
 </div>
 
 <h4 align="center">🚀 Deployment & Tools</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github,vscode,render,figma,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare&theme=dark" alt="Tools" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode,render,figma,npm&theme=dark" alt="More Tools" height="50" />
 </div>
 
 <br/>
