@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/rWv1iZ7.gif" alt="Aesthetic Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/images/coding.gif" alt="Aesthetic Header" width="100%" />
 </div>
 
 <h1 align="center"> Pushkar Kumar </h1>
