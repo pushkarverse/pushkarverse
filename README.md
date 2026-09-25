@@ -73,6 +73,11 @@
   <img src="https://skillicons.dev/icons?i=unity,godot,cs&theme=dark" />
 </div>
 
+#### 🚀 Deployment & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,github,vscode,postman,figma,npm&theme=dark" />
+</div>
+
 ---
 
 ## 📊 Stats & Analytics
