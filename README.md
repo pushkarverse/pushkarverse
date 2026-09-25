@@ -78,12 +78,13 @@
 ## 📊 Stats & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarverse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverse&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=pushkarverse&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pushkarverse&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkarverse&theme=radical" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
