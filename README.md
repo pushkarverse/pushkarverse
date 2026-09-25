@@ -105,4 +105,14 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,100:a855f7&height=3" width="100%"/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pushkarverse/pushkarverse/output/snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a0a2e,75:0a0a2e,100:0d0d0d&height=130&section=footer" width="100%"/>
